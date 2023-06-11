@@ -96,11 +96,11 @@
   --activity-card-background: var(--background-1);
   --brand-experiment: var(--accent-color) !important;
   /* buttons */
-  --button-background: #392a2f;
-  --button-background-hover: #49353f;
-  --button-background-active: #684d57;
+  --button-background: #351922;
+  --button-background-hover: #642947;
+  --button-background-active: #94385b;
   --button-accent: var(--accent-color);
-  --button-accent-hover: #ffd2ec;
+  --button-accent-hover: #ff92d2;
   --button-accent-active: #f88dc8;
   --button-destructive: #fb7c7c;
   --button-destructive-hover: #ff929b;
