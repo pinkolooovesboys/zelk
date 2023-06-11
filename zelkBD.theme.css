@@ -67,19 +67,19 @@
   --background-tertiary: var(--background-2);
   --background-accent-gradient: var(--background-2);
   --background-floating: var(--background-1);
-  --background-mentioned: #bde6fb10;
-  --background-mentioned-hover: #bde6fb15;
+  --background-mentioned: #3f273010;
+  --background-mentioned-hover: #fbbdd515;
   /* modifiers */
-  --background-modifier-hover: #262e33;
-  --background-modifier-active: #495a63;
+  --background-modifier-hover: #33262b;
+  --background-modifier-active: #634953;
   --background-modifier-selected: var(--accent-color);
   --background-modifier-accent: transparent;
   --background-message-hover: transparent;
   /* text */
   --text-normal: var(--accent-color);
   --text-positive: var(--text-normal);
-  --text-muted: #6d8692;
-  --text-link: #edf8fe;
+  --text-muted: #926d75;
+  --text-link: #feedf7;
   --interactive-selected: var(--background-primary);
   --interactive-active: var(--text-normal);
   --interactive-normal: var(--text-normal);
@@ -88,20 +88,20 @@
   --header-primary: var(--text-normal);
   --header-secondary: var(--text-muted);
   /* more */
-  --settings-icon-color: #8eacbc;
+  --settings-icon-color: #bc8ea7;
   --control-brand-foreground: var(--accent-color);
   --info-warning-foreground: var(--accent-color);
-  --tab-selected: #354249;
-  --switch: #3d4c53;
+  --tab-selected: #49353d;
+  --switch: #533d49;
   --activity-card-background: var(--background-1);
   --brand-experiment: var(--accent-color) !important;
   /* buttons */
-  --button-background: #2a3439;
-  --button-background-hover: #354249;
-  --button-background-active: #4d5f68;
+  --button-background: #392a2f;
+  --button-background-hover: #49353f;
+  --button-background-active: #684d57;
   --button-accent: var(--accent-color);
-  --button-accent-hover: #d2f3ff;
-  --button-accent-active: #8dd4f8;
+  --button-accent-hover: #ffd2ec;
+  --button-accent-active: #f88dc8;
   --button-destructive: #fb7c7c;
   --button-destructive-hover: #ff929b;
   --button-destructive-active: #fa4a4a;
